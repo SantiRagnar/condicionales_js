@@ -12,3 +12,10 @@
 // Luego el programa debe imprimir la cantidad de caracteres de cada palabra
 // ingresada utilizando .length 
 
+let pal1 = parseInt(prompt('ingrese una palabra 1'));
+let pal2 = parseInt(prompt('ingrese una palabra 2'));
+let pal3 = parseInt(prompt('ingrese una palabra 3'));
+
+alert('longitud palabra 1:' + pal1.length);
+alert('longitud palabra 2:' + pal2.length);
+alert('longitud palabra 3:' + pal3.length);
